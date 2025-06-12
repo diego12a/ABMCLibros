@@ -1,0 +1,13 @@
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\bin\Debug\ABMCLibros.exe.config
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\bin\Debug\ABMCLibros.exe
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\bin\Debug\ABMCLibros.pdb
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.Presentacion.FrmConsulta.resources
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.Presentacion.FrmDetalles.resources
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.Presentacion.FrmLibros.resources
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.Presentacion.FrmPrincipal.resources
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.Properties.Resources.resources
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.exe
+D:\UTN\ProgramacionI\2025\1Cuatrimestre\ABMCLibros\obj\Debug\ABMCLibros.pdb
